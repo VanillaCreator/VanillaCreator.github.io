@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vanilla Creator</title><link>https://vanillacreator.plus/docs/formats/</link><description>Recent content on Vanilla Creator</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://vanillacreator.plus/docs/formats/index.xml" rel="self" type="application/rss+xml"/><item><title>Text Format</title><link>https://vanillacreator.plus/docs/formats/text-format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vanillacreator.plus/docs/formats/text-format/</guid><description>Text Format # There&amp;rsquo;re a few text formats allowed
+Simple string # Example:
+required_text: When your dreams come alive you&amp;#39;re unstoppable Object # Only text with color is supported now
+Example:
+required_text: text: Take a shot, chase the sun, find the beautiful color: &amp;#34;#5bcfea&amp;#34; List # For creating multiline text in somewhere allowed
+Example:
+required_text: - We&amp;#39;ll glow in the dark turning dust to gold - text: And we&amp;#39;ll dream it possible color: &amp;#34;#f5a9b8&amp;#34; Notes # &amp;quot; &amp;ldquo; can be leave out if there&amp;rsquo;re no special characters, like : or #</description></item></channel></rss>
